@@ -1,0 +1,1 @@
+This project creates a secure company network where departments are separated using VLANs, IP addresses are assigned automatically using DHCP, communication is controlled using ACLs, a web server provides services, Kali Linux simulates attacks, and Wireshark analyzes network traffic to evaluate security.
